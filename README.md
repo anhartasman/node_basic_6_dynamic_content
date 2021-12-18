@@ -39,3 +39,9 @@ Mengkonversi file HTML ke file pug
 ### Intro
 
 Membuat layout
+
+## 86. Finishing the Pug Template
+
+### Intro
+
+Menyelesaikan template pug
