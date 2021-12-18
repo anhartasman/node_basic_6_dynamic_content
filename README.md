@@ -27,3 +27,9 @@ Untuk menginstall pug, ejs dan handlebars
 ### Intro
 
 Menghadirkan konten dinamis dengan pug
+
+## 84. Converting HTML Files to Pug
+
+### Intro
+
+Mengkonversi file HTML ke file pug
