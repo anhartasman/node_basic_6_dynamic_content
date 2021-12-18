@@ -33,3 +33,9 @@ Menghadirkan konten dinamis dengan pug
 ### Intro
 
 Mengkonversi file HTML ke file pug
+
+## 85. Adding a Layout
+
+### Intro
+
+Membuat layout
