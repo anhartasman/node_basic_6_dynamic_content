@@ -21,3 +21,9 @@ npm install --save ejs pug express-handlebars
 ```
 
 Untuk menginstall pug, ejs dan handlebars
+
+## 82. Outputting Dynamic Content
+
+### Intro
+
+Menghadirkan konten dinamis dengan pug
