@@ -7,3 +7,17 @@ Membuat konten dinamis dengan node js
 ### Intro
 
 Sharing data antar request
+
+## 81. Installing & Implementing Pug
+
+### Intro
+
+Menggunakan pug
+
+### Command
+
+```
+npm install --save ejs pug express-handlebars
+```
+
+Untuk menginstall pug, ejs dan handlebars
